@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+## ⭐💙
+while i use
+* <a href="https://react-bootstrap.github.io/">React</a> library
+* <a href="https://react-bootstrap.netlify.app/">React Bootsrap</a> For styling
+* Public <a href="https://laravel-books-db.herokuapp.com/">APIs</a>
 
 ### `npm start`
 
