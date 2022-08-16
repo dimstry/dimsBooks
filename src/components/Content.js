@@ -53,7 +53,7 @@ function Content() {
                             </Card>
                         </Col>
                     )
-                }) : ""}
+                }) : <div><h4 className='text-center'>Loading.....</h4></div>}
             </Row>
         </Container>
     );
