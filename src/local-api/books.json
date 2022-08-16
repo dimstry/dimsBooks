@@ -1,0 +1,53 @@
+{
+  "indonesia": [
+    {
+      "id": 1,
+      "author": "Martha Mary McGraw, CSJ.",
+      "title": "60 Cara Pengembangan Diri",
+      "image": "./assets/img/60Cara.jpg",
+      "ebook": "./assets/books/60Cara_Pengembangan_Diri_(MarthaMaryMcGraw,CSJ.)_(z-lib.org).pdf"
+    },
+    {
+      "id": 2,
+      "author": "James Clear",
+      "title": "Atomic Habits Perubahan Kecil yang Memberikan Hasil Luar Biasa",
+      "image": "./assets/img/atomicHabbits.jpg",
+      "ebook": "./assets/books/Atomic_Habits_Perubahan_Kecil_yang_memberikan_hasil_luar_biasa_(JamesClear)_(z-lib.org).pdf"
+    },
+    {
+      "id": 3,
+      "author": "Ichiro Kisimi, Fumitake Koga",
+      "title": "Berani Bahagia",
+      "image": "./assets/img/beraniBahagia.jpg",
+      "ebook": "./assets/books/Berani_Bahagia_(Ichiro_Kishimi,Fumitake_Koga)_(z-lib.org).pdf"
+    },
+    {
+      "id": 4,
+      "author": "Efvy Zam",
+      "title": "Buku Sakti Hacker",
+      "image": "./assets/img/bukuSakti.jpg",
+      "ebook": "./assets/books/Buku_Sakti_Hacker_(EfvyZam)_(z-lib.org).pdf"
+    },
+    {
+      "id": 5,
+      "author": "Richard Carlson",
+      "title": "Jangan Membuat Masalah Kecil Jadi Masalah Besar Cara Mudah Mencegah Masalah Kecil Mengganggu Hidup Kita",
+      "image": "./assets/img/janganMembuatMasalah.jpg",
+      "ebook": "./assets/books/Jangan_Membuat_Masalah_Kecil_Jadi_Masalah_Besar_Cara_Mudah_Mencegah_Masalah_Kecil_Mengganggu_Hidup_Kita_(RichardCarlson)_(z-lib.org).pdf"
+    },
+    {
+      "id": 6,
+      "author": "Bo Bennett, Ph.D",
+      "title": "Kitab Anti Bodoh",
+      "image": "./assets/img/kitabAntiBodoh.jpg",
+      "ebook": "./assets/books/Kitab_Anti_Bodoh_(BoBennett,Ph.D.)_(z-lib.org).pdf"
+    },
+    {
+      "id": 7,
+      "author": "Leila S. Chudori",
+      "title": "Laut Bercerita",
+      "image": "./assets/img/lautBercerita.jpg",
+      "ebook": "./assets/books/Laut_Bercerita_(LeilaS.Chudori)_(z-lib.org).pdf"
+    }
+  ]
+}
