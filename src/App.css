@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  scroll-behavior: smooth;
 }
 .App-logo {
   height: 40vmin;
@@ -11,6 +12,39 @@
 
 .go_read {
   float: right;
+}
+
+.card-footer {
+  height: 10rem;
+  bottom: 0px;
+}
+
+.my_row {
+  padding-top: 1rem;
+  gap: 2rem;
+}
+.my_col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  z-index: 0;
+}
+.action_up {
+  z-index: 1;
+  width: 50px;
+  height: 50px;
+  font-size: xx-large;
+  position: fixed;
+  bottom: 0px;
+  right: 0;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  cursor: pointer;
+  display: none;
+}
+.icon {
+  cursor: pointer;
 }
 
 @media (prefers-reduced-motion: no-preference) {

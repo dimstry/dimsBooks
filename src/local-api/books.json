@@ -18,7 +18,7 @@
       "id": 3,
       "author": "Ichiro Kisimi, Fumitake Koga",
       "title": "Berani Bahagia",
-      "image": "./assets/img/beraniBahagia.jpg",
+      "image": "./assets/img/beraniBahagia.png",
       "ebook": "./assets/books/Berani_Bahagia_(Ichiro_Kishimi,Fumitake_Koga)_(z-lib.org).pdf"
     },
     {
@@ -31,7 +31,7 @@
     {
       "id": 5,
       "author": "Richard Carlson",
-      "title": "Jangan Membuat Masalah Kecil Jadi Masalah Besar Cara Mudah Mencegah Masalah Kecil Mengganggu Hidup Kita",
+      "title": "Cara Mudah Mencegah Masalah Kecil Mengganggu Hidup Kita",
       "image": "./assets/img/janganMembuatMasalah.jpg",
       "ebook": "./assets/books/Jangan_Membuat_Masalah_Kecil_Jadi_Masalah_Besar_Cara_Mudah_Mencegah_Masalah_Kecil_Mengganggu_Hidup_Kita_(RichardCarlson)_(z-lib.org).pdf"
     },
@@ -46,7 +46,7 @@
       "id": 7,
       "author": "Leila S. Chudori",
       "title": "Laut Bercerita",
-      "image": "./assets/img/lautBercerita.jpg",
+      "image": "./assets/img/lautBercerita.png",
       "ebook": "./assets/books/Laut_Bercerita_(LeilaS.Chudori)_(z-lib.org).pdf"
     }
   ]
