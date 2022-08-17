@@ -1,6 +1,6 @@
 ## Preview 🌐
 
-🔗 books-umber.vercel.app
+🔗 https://books-umber.vercel.app
 
 ## Tentang 📝
 
