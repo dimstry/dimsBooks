@@ -8,7 +8,7 @@ while i use
 * <a href="https://react-bootstrap.netlify.app/">React Bootsrap</a> For styling
 * Public <a href="https://laravel-books-db.herokuapp.com/">APIs</a>
 * Local Api
-* <a href="https://www.npmjs.com/package/react-loading-skeleton">React Skeleton</a>library
+* <a href="https://www.npmjs.com/package/react-loading-skeleton">React Skeleton</a> library
 
 ### `npm start`
 
